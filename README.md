@@ -4,9 +4,9 @@
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Miles629&show_icons=true&theme=tokyonight">
 
 - 📚 I’m a student of WuHan University.
-- 🏛 Foucs on Transparent Shape 3D-reconstruction.
-- :briefcase:Working in Dr. Chunxia Xiao's lab recently. 
-- 📫 Reach me: woshimacaoyuan@yeah.net or 1067874054@qq.com or woshimacaoyuan@gmail.com.
+- 🏛 Foucs on My personal life.
+- :briefcase:Now, a nice holiday. 
+- 📫 Reach me: woshimacaoyuan@yeah.net or 1067874054@qq.com.
 
 
 
