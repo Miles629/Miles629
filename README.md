@@ -7,7 +7,7 @@
 - 🔍: Human-centered research(3D Representation, Generation).
 - 🧳: I am looking for research internships in Beijing.
 - 🏛: I hope to have the opportunity to apply for a PhD program in Europe, North America, Japan, and Singapore.
-- 📫: Reach me: woshimacaoyuan@yeah.net or macaoyuan@whu.edu.cn.
+- 📫: Reach me: macaoyuan@whu.edu.cn.
 
 
 
