@@ -4,10 +4,12 @@
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Miles629&show_icons=true&theme=tokyonight">
 
 - 📚: I’m a student at Wuhan University.
-- 🔍: Human-centered research(3D Representation, Generation).
+- 🔍: 1. AGI/AIGC/Embodied AI is interesting, and I want to collaborate on these research directions.
+- 🔍: 2. Human-centered research(3D Representation, Generation). One paper was accepted by CVPR2024🎉.
 - 🧳: I am looking for research internships in Beijing.
 - 🏛: I hope to have the opportunity to apply for a PhD program in Europe, North America, Japan, and Singapore.
 - 📫: Reach me: macaoyuan@whu.edu.cn.
+- 🪟: My personal page: https://miles629.github.io/
 
 
 
